@@ -5,5 +5,6 @@ public class RemoveHypens{
 
         System.out.println ("no hypens: " + noHypens.replace("-", ""));
         System.out.println ("hypens: " + hypens.replace("-", ""));
+        System.out.println ("--- finished ---");
     }
 }
